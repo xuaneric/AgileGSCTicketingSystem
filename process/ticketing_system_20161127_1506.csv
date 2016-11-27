@@ -1,0 +1,29 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Other ID,Integration,Owned By,Owned By,Comment,Comment
+3158477,Payment module,payment module,,,,epic,,,"Nov 20, 2016",,,,Payment module is to allow the GSC staff to make payment for the customers.,https://www.pivotaltracker.com/epic/show/3158477,,,,,,
+3158475,Reservation,reservation,,,,epic,,,"Nov 20, 2016",,,,Reservation module is a module that allow GSC staff to reserve the seat for the customer.,https://www.pivotaltracker.com/epic/show/3158475,,,,,,
+3158465,Registration,registration,,,,epic,,,"Nov 20, 2016",,,,Registration module is module that allow user which is GSC staff to login and help customer to register as member.,https://www.pivotaltracker.com/epic/show/3158465,,,,,,
+134651517,"As a GSC company manager, I want to view the staff system login history, so that i can check the staff working days.",registration,1,"Nov 21, 2016","Nov 27, 2016",feature,2,finished,"Nov 20, 2016",,,OJX,To check the login history of the staff,https://www.pivotaltracker.com/story/show/134651517,,,OJX,,"Commit by xuaneric
+https://github.com/xuaneric/AgileGSCTicketingSystem/commit/613c8cbd42c187c481b0d61bf53a986b31307f69
+
+[Finished #134651517] (OJX - Nov 27, 2016)","Commit by xuaneric
+https://github.com/xuaneric/AgileGSCTicketingSystem/commit/77132d80a694515c0327433a5c16985ad8ad6383
+
+[Finished #134651517] (OJX - Nov 27, 2016)"
+134651631,"As a GSC company staff, i want to have member registration function for the system, so that i can help customer register as member easily.",registration,1,"Nov 21, 2016","Nov 27, 2016",feature,1,finished,"Nov 20, 2016",,,OJX,Member registration,https://www.pivotaltracker.com/story/show/134651631,,,OJX,,"Commit by xuaneric
+https://github.com/xuaneric/AgileGSCTicketingSystem/commit/3b1abd44fdef2941bb9ee340a7a7a0fe25cc2e94
+
+[Finished #134651631] (OJX - Nov 27, 2016)"
+134652813,"As a GSC manager, i want to allow staff to login into the system, so that we can prevent unauthorized user to login",registration,1,"Nov 21, 2016","Nov 27, 2016",feature,2,finished,"Nov 20, 2016",,,TMT,To implement login function to the system.,https://www.pivotaltracker.com/story/show/134652813,,,OJX,TMT,"Commit by xuaneric
+https://github.com/xuaneric/AgileCinemaTicketingSystem/commit/11cecb0cacd50d7a38ea9796903e7dfa77b80091
+
+[Finished ##134652813] (OJX - Nov 26, 2016)","Commit by xuaneric
+https://github.com/xuaneric/AgileGSCTicketingSystem/commit/b0a6a28c02bfa60e409d41d134ee1fbdba64e968
+
+[Finished #134652813] (OJX - Nov 27, 2016)"
+134651593,"As a GSC company staff, I want to have change password function, so that i can change the password to the password that i can memories it easily. ",registration,1,"Nov 21, 2016","Nov 27, 2016",feature,1,unstarted,"Nov 20, 2016",,,OJX,change password,https://www.pivotaltracker.com/story/show/134651593,,,OJX,
+134651567,"As a GSC company staff, I want to have forget password function for the system, so that i can find back the password if i forgotten.",registration,1,"Nov 21, 2016","Nov 27, 2016",feature,1,unstarted,"Nov 20, 2016",,,OJX,Forget password,https://www.pivotaltracker.com/story/show/134651567,,,OJX,
+134652603,"As a GSC manager, i want the system to allow the staff to cancel the reservation so that customer can cancel the reservation if they suddenly want to cancel the reservation.",reservation,,,,feature,2,unscheduled,"Nov 20, 2016",,,TMT,To allow staff to cancel the reservation.,https://www.pivotaltracker.com/story/show/134652603,,,,
+134651773,"As a GSC manager, i want the system to display the movie name and duration, so that the staff can select the movie that customer wants.",reservation,,,,feature,2,unscheduled,"Nov 20, 2016",,,OJX,To display movie name and duration,https://www.pivotaltracker.com/story/show/134651773,,,,
+134651743,"As a GSC company manager, i want to have hall seat reserve function for the system,  so that staff do not need to take note which seat already reserved.",reservation,,,,feature,3,unscheduled,"Nov 20, 2016",,,OJX,To record the reserved seat,https://www.pivotaltracker.com/story/show/134651743,,,,
+134651723,"As GSC company staff, i want to print the ticket automatically by using the system, so that the i do not have to print ticket manually.",payment module,,,,feature,2,unscheduled,"Nov 20, 2016",,,OJX,Generate Ticket,https://www.pivotaltracker.com/story/show/134651723,,,,
+134651659,"As a GSC company staff, i want to have calculation function for the system, so that i do not need to calculate the price manually.",payment module,,,,feature,2,unscheduled,"Nov 20, 2016",,,OJX,Calculate ticket price,https://www.pivotaltracker.com/story/show/134651659,,,,
